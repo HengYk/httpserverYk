@@ -24,6 +24,8 @@ HengYk服务器是一个Java开发的HTTP服务器,使用了BIO和多线程技�
 
 ### 参考致谢
 
+[https://www.javatips.net/api/jogger-master/src/main/java/com/elibom/jogger/http/Path.java](https://www.javatips.net/api/jogger-master/src/main/java/com/elibom/jogger/http/Path.java)
+
 [Kria:JAVA实现的HTTP服务器](https://github.com/junicorn/kira)
 
 [用Java编写你自己的简单HTTP服务器](https://blog.csdn.net/yanghua_kobe/article/details/7296156)
